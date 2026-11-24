@@ -1,0 +1,12 @@
+# 内核模块编译产物
+*.ko
+*.o
+*.mod
+*.mod.c
+*.symvers
+*.order
+.*.cmd
+.tmp_versions/
+
+# 可执行
+/max17263.ko
